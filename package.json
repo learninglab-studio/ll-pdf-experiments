@@ -1,0 +1,25 @@
+{
+  "name": "ll-pdf-experiments",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "bin": {
+    "pdfplease": "cli.js"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/learninglab-studio/ll-pdf-experiments.git"
+  },
+  "author": "conrad",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/learninglab-studio/ll-pdf-experiments/issues"
+  },
+  "homepage": "https://github.com/learninglab-studio/ll-pdf-experiments#readme",
+  "dependencies": {
+    "pdfkit": "^0.13.0"
+  }
+}
